@@ -33,14 +33,14 @@ function PowerBrand() {
         // }
     ]
   return (
-    <div className='w-[100%] bg-orange-50 flex justify-between items-start pr-[20px]'>
-      <div className='w-[45%] h-[1100px] bg-red-200'>
+    <div className='w-[100%] py-[50px] lg:py-0 bg-orange-50 flex flex-col lg:flex-row justify-center items-center lg:justify-between lg:items-start pr-[20px]'>
+      <div className='w-[90%] lg:w-[45%] flex  lg:flex h-[1100px] bg-red-200'>
         <img src={collage} className='w-full h-full object-fit' alt="" />
       </div>
-      <div className='w-[53%] pt-[30px]'>
-            <h1 className='text-[50px] w-[50%] '>POWER YOUR BRAND</h1>
+      <div className='w-[90%] flex flex-col gap-[30px] lg:justify-start lg:items-start justify-center items-center lg:w-[53%] pt-[30px]'>
+            <h1 className='text-[50px] text-center lg:text-start w-[90%] lg:w-[50%] '>POWER YOUR BRAND</h1>
             <div className='border-2 p-[15px] border-[#F6A21C] flex flex-col gap-[20px] rounded-[10px]'>
-                <div className='grid gap-[20px] grid-cols-2 '>
+                <div className='grid gap-[20px] grid-cols-1 md:grid-cols-2 '>
                     {
                         power.map((p, index)=>(
                             <div key={index} className='w-[98%] flex flex-col gap-[10px] rounded-[20px] p-[20px] bg-[#312209]'>

@@ -19,7 +19,7 @@ function Hero() {
       </video>
       <div className="absolute inset-0 bg-black opacity-75 z-0"></div>
       <div className='absolute w-[100%] gap-[30px] md:gap-0  md:h-[450px] flex flex-col md:flex-row justify-around items-center'>
-            <div className='w-[80%] text-center md:text-start md:w-[50%] items-start flex flex-col gap-[20px]'>
+            <div className='w-[80%] text-center md:text-start md:w-[50%] items-center md:items-start flex flex-col gap-[20px]'>
                 <h1 className='text-white font-bold font-sans text-[50px]'>About JacRoc Creatives </h1>
                 <p className='text-white text-center md:text-start'>WE HAVE PASSION FOR INNOVATIVE GREAT CREATIVE IDEAS, UNIQUE EXPERIENCES, EXECUTION.
  WE BRIDGE THE GAP THROUGH CONNECTING PEOPLE, CULTURE, TECHNOLOGY AND BRANDS

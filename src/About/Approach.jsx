@@ -61,7 +61,7 @@ function Approach() {
         {/* <div className='w-[100%] flex'>
             <p className='w-full text-white text-[50px]'>OUR APPROACH</p>
         </div> */}
-        <div className='w-[100%] flex flex-col md:flex-row gap-[50px] items-center justify-center md:justify-start'>
+        <div className='w-[100%] flex flex-col md:flex-row gap-[20px] md:gap-[50px] items-center justify-center md:justify-start'>
             <p className='w-[100%] text-white md:w-[10%] md:text-end text-center text-[35px] md:text-[25px]'>OUR APPROACH</p>
             <p className='md:w-[80%] text-center text-white text-[25px] md:text-[30px] lg:text-[40px]'> Collaborative Approach, Effective Results.</p>
         </div>

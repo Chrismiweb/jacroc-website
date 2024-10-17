@@ -5,6 +5,10 @@ import About from './About'
 import Hero from './Hero'
 import Approach from './Approach'
 import PowerBrand from './PowerBrand'
+import CaseStudy from './CaseStudy'
+import Service from './Service'
+import Brand from './Brand'
+import Contact from './Contact'
 
 function Home() {
   return (
@@ -15,6 +19,10 @@ function Home() {
         <OurTeam/>
         <Approach/>
         <PowerBrand/>
+        <CaseStudy/>
+        <Service/>
+        <Brand/>
+        <Contact/>
     </div>
   )
 }

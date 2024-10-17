@@ -11,8 +11,8 @@ function About() {
                 <p className='text-center w-[100%] md:w-[80%]'>We are <span className='text-yellow-500 font-bold'>Diversified  100% Black owned & Africa Focused Media & Marketing Creative Agency</span> compromising of Innovative, Experienced Professionals. We pride ourselves with our <span className='text-yellow-500 font-bold'>12 YEARS</span> track record of understanding our clients needs and developing the best customized solutions for each project. We pride ourselves in being the leading communications agency that continuously adds new innovative products and services to our portfolio to allow our clients to continue <span className='text-yellow-500 font-bold'>ACCELEARTING THEIR BRANDS TO STANDOUT AMONG COMPETITORS</span> </p>
             </div>
             <div className='w-[90%] lg:w-[80%] flex flex-col md:flex-row  gap-[20px] md:items-center md:justify-around'>
-                <div className='w-[100%] overflow-hidden rounded-[20px] md:w-[35%] flex h-[400px] bg-red-50'>
-                    <img src={about1} className='w-full h-full object-cover' alt="" />
+                <div className='w-[100%] border-[#F6A21C] p-[15px] border-dotted overflow-hidden rounded-[20px] md:w-[35%] flex h-[400px] border-2'>
+                    <img src={about1} className='w-full h-full rounded-[20px] object-cover' alt="" />
                 </div>
                 <div className='w-[100%] md:w-[50%] gap-[30px] flex flex-col'>
                     <div className='w-[100%] gap-[10px] flex flex-col'>
@@ -67,8 +67,8 @@ function About() {
                         </div>
                     </div>
                 </div>
-                <div className='w-[100%] overflow-hidden rounded-[20px] md:w-[35%] flex h-[400px] bg-red-500'>
-                    <img src={about2} className='w-full h-full object-cover' alt="" />
+                <div className='w-[100%] border-[#F6A21C] p-[15px] border-dotted overflow-hidden rounded-[20px] md:w-[35%] flex h-[400px] border-2'>
+                    <img src={about2} className='w-full rounded-[20px] h-full object-cover' alt="" />
                 </div>
             </div>
     </div>
