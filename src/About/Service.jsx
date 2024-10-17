@@ -1,8 +1,5 @@
 import React from 'react'
-import { CiSearch } from "react-icons/ci";
 import { FaChartLine } from "react-icons/fa";
-import { GiBrain } from "react-icons/gi";
-import { TbBulb } from "react-icons/tb";
 import { SiMicrostrategy } from "react-icons/si";
 import { BsPersonWorkspace } from "react-icons/bs";
 import { LuCalendarRange } from "react-icons/lu";
