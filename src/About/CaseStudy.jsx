@@ -6,17 +6,12 @@ import Hero from './Hero'
 import Approach from './Approach'
 import PowerBrand from './PowerBrand'
 
-function Home() {
+function CaseStudy() {
   return (
     <div>
-        <Navbar/>
-        <Hero/>
-        <About/>
-        <OurTeam/>
-        <Approach/>
-        <PowerBrand/>
+        hhh
     </div>
   )
 }
 
-export default Home
+export default CaseStudy

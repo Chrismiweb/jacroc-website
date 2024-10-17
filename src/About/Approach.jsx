@@ -57,17 +57,17 @@ function Approach() {
         <p className='w-[70%] font-medium text-[15px]'>Our company was formed by two powerhouse companies Jacoth (PTY) Ltd and Rockwell Africa Group that came together since its inception to form JacRoc Creatives. The brainchild <b>JacRoc Creatives</b> 100% Black owned Agency was formed by two experienced Black young entrepreneurs to provide brands with insight and inclusion in the diverse African culture market.
         </p>
     </div> */}
-    <div className='w-[85%]'>
+    <div className='w-[90%] md:w-[95%] lg:w-[85%]'>
         {/* <div className='w-[100%] flex'>
             <p className='w-full text-white text-[50px]'>OUR APPROACH</p>
         </div> */}
-        <div className='w-[100%] flex gap-[50px] items-center justify-start'>
-            <p className='w-[10%] text-white text-right text-[25px]'>OUR APPROACH</p>
-            <p className='w-[90%] text-white text-[40px]'>|  Collaborative Approach, Effective Results.</p>
+        <div className='w-[100%] flex flex-col md:flex-row gap-[50px] items-center justify-center md:justify-start'>
+            <p className='w-[100%] text-white md:w-[10%] md:text-end text-center text-[35px] md:text-[25px]'>OUR APPROACH</p>
+            <p className='md:w-[80%] text-center text-white text-[25px] md:text-[30px] lg:text-[40px]'> Collaborative Approach, Effective Results.</p>
         </div>
     </div>
-    <div className='w-[85%] bg-[#7A7A7A] h-[1px]'></div>
-    <div className='w-[85%] grid gap-[20px] grid-cols-3'>
+    <div className='w-[90%] lg:w-[85%] bg-[#7A7A7A] h-[1px]'></div>
+    <div className='w-[90%] lg:w-[85%] grid gap-[20px] grid-col-1 md:grid-cols-2 lg:grid-cols-3'>
             {
                 approach.map((a, index)=>(
                     <div key={index} className='w-[95%] h-[330px] justify-center items-center flex  bg-[#312209] border border-[#F6A21C] rounded-[25px]'>
