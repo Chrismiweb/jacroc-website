@@ -5,7 +5,7 @@ import { FaSquareInstagram } from "react-icons/fa6";
 
 function Contact() {
   return (
-    <div className='w-[100%] border-y-2 gap-[20px] border-[#F6A21C] bg-orange-50 py-[50px] flex flex-col justify-center items-center'>
+    <div id="contact" className='w-[100%] border-y-2 gap-[20px] border-[#F6A21C] bg-orange-50 py-[50px] flex flex-col justify-center items-center'>
         <h1 className='text-[60px] text-center'>GET IN TOUCH</h1>
         <form action="" className='bg-[#fae6c5] gap-[40px] lg:gap-0 flex flex-col-reverse  lg:flex-row justify-between items-center md:w-[95%] lg:w-[80%] p-[20px] rounded-[20px] shadow-2xl shadow-slate-400-500/500'>
             <div className=' w-[100%] lg:w-[40%] rounded-[20px] flex justify-center gap-[30px] py-[30px] items-center flex-col bg-orange-100 '>

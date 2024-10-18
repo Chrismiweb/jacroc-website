@@ -5,7 +5,7 @@ import about2 from '../images/about2.jpg'
 
 function About() {
   return (
-    <div className='w-[100%] border-y-[1px] border-yellow-400 gap-[50px] bg-orange-100 py-[50px] flex flex-col justify-center items-center'>
+    <div id= "about" className='w-[100%] border-y-[1px] border-yellow-400 gap-[50px] bg-orange-100 py-[50px] flex flex-col justify-center items-center'>
             <div className='lg:w-[80%] w-[90%] flex flex-col gap-[20px] items-center justify-center'>
                 <h1 className='text-center text-[40px] font-semibold'>ABOUT JacRoc Creatives </h1>
                 <p className='text-center w-[100%] md:w-[80%]'>We are <span className='text-yellow-500 font-bold'>Diversified  100% Black owned & Africa Focused Media & Marketing Creative Agency</span> compromising of Innovative, Experienced Professionals. We pride ourselves with our <span className='text-yellow-500 font-bold'>12 YEARS</span> track record of understanding our clients needs and developing the best customized solutions for each project. We pride ourselves in being the leading communications agency that continuously adds new innovative products and services to our portfolio to allow our clients to continue <span className='text-yellow-500 font-bold'>ACCELEARTING THEIR BRANDS TO STANDOUT AMONG COMPETITORS</span> </p>

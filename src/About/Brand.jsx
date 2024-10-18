@@ -19,7 +19,7 @@ import brand15 from "../images/brand15.jpg";
 
 function Brand() {
   return (
-    <div className="w-[100%] px-[30px] md:px-[70px] py-[50px] bg-orange-50 flex flex-col gap-[30px] mx-auto">
+    <div id="brand" className="w-[100%] px-[30px] md:px-[70px] py-[50px] bg-orange-50 flex flex-col gap-[30px] mx-auto">
         <div className='w-[90%] gap-[40px] md:gap-0 flex flex-col lg:w-[80%]'>
             <div className='w-[100%] flex'>
                 <p className='w-full text-[30px] md:text-[50px]'>OUR LOYAL BRANDS</p>

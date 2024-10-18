@@ -1,5 +1,7 @@
 import React from 'react'
 import Navbar from '../component/Navbar'
+import Footer from '../component/Footer'
+
 import OurTeam from './OurTeam'
 import About from './About'
 import Hero from './Hero'
@@ -23,6 +25,7 @@ function Home() {
         <Service/>
         <Brand/>
         <Contact/>
+        <Footer/>
     </div>
   )
 }

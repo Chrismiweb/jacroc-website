@@ -24,7 +24,7 @@ function Hero() {
                 <p className='text-white text-center md:text-start'>WE HAVE PASSION FOR INNOVATIVE GREAT CREATIVE IDEAS, UNIQUE EXPERIENCES, EXECUTION.
  WE BRIDGE THE GAP THROUGH CONNECTING PEOPLE, CULTURE, TECHNOLOGY AND BRANDS
 </p>
-                  <a href="#" className='bg-[#F6A21C] gap-[15px] rounded-full hover:bg-yellow-700 hover:duration-500 hover:transition-all justify-center items-center flex font-bold text-white w-[70%] lg:w-[30%] py-[10px]'>Learn More <FaArrowAltCircleDown /></a>
+                  <a href="#about" className='bg-[#F6A21C] gap-[15px] rounded-full hover:bg-yellow-700 hover:duration-500 hover:transition-all justify-center items-center flex font-bold text-white w-[70%] lg:w-[30%] py-[10px]'>Learn More <FaArrowAltCircleDown /></a>
             </div>
             <div className=' grid grid-cols-2 md:flex md:flex-col gap-[10px]'>
                 <div className='h-[100px] overflow-hidden w-[150px] border-white border-[2px]'>

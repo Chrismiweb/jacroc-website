@@ -73,7 +73,7 @@ function Service() {
 
     ]
   return (
-    <div className='w-[100%] gap-[30px] bg-[#312209] py-[70px] flex flex-col justify-center items-center'>
+    <div id="service" className='w-[100%] gap-[30px] bg-[#312209] py-[70px] flex flex-col justify-center items-center'>
     {/* <div className='w-[80%]'>
         <p className='text-white w-[20%] flex py-[10px] justify-center items-center bg-yellow-400 text-[25px] font-bold'>OUR TEAM</p>
         <p className='w-[70%] font-medium text-[15px]'>Our company was formed by two powerhouse companies Jacoth (PTY) Ltd and Rockwell Africa Group that came together since its inception to form JacRoc Creatives. The brainchild <b>JacRoc Creatives</b> 100% Black owned Agency was formed by two experienced Black young entrepreneurs to provide brands with insight and inclusion in the diverse African culture market.
