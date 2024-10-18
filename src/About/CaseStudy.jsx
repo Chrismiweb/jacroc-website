@@ -30,7 +30,7 @@ function CaseStudy() {
                     <div className='w-[100%] bg-yellow-400 h-[2px]'></div>
                     <p className='text-[14px] pt-[20px] lg:h-[90px] md:pt-0 md:text-[12px]'>The Transnet Foundation Blitz's hosted 500 employees in Ocean View Pre school  for their CSI they were treated to activities, entertainment, food and community engagement..
                     </p>
-                    <div className='w-[100%] rounded-[10px] overflow-hidden h-[250px] bg-red-200 flex'>
+                    <div className='w-[100%] rounded-[10px] overflow-hidden h-[250px] flex'>
                         <img src={case1} className='object-fill w-full h-full' alt="" />
                     </div>
                 </div>
@@ -44,7 +44,7 @@ function CaseStudy() {
                     <div className='w-[100%] bg-yellow-400 h-[2px]'></div>
                     <p className='text-[14px] pt-[20px] md:pt-0 lg:h-[90px] md:text-[12px]'>GPG is the Premiers office they have an initiative called TSHEPO1MILLION which they wanted to  demonstrate the positive effect on South Africa’s youth, through social media & video production
                     </p>
-                    <div className='w-[100%] rounded-[10px] overflow-hidden h-[250px] bg-red-200 flex'>
+                    <div className='w-[100%] rounded-[10px] overflow-hidden h-[250px] flex'>
                         <img src={case2} className='object-fill w-full h-full' alt="" />
                     </div>
                 </div>
@@ -57,7 +57,7 @@ function CaseStudy() {
                     <div className='w-[100%] bg-yellow-400 h-[2px]'></div>
                     <p className='text-[14px] pt-[20px] md:pt-0 lg:h-[90px] md:text-[12px]'>Africa No.1 leading urban street culture showcase. A unique brand that speaks to the elements in urban culture, fashion, Music, Art &Culture and Technology
                     </p>
-                    <div className='w-[100%] rounded-[10px] overflow-hidden h-[250px] bg-red-200 flex'>
+                    <div className='w-[100%] rounded-[10px] overflow-hidden h-[250px] bg-red flex'>
                         <img src={case3} className='object-fill w-full h-full' alt="" />
                     </div>
                 </div>

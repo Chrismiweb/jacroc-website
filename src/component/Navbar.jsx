@@ -40,14 +40,14 @@ function Navbar() {
     </div>
     {navbar && 
         <div className='custom-grad h-[100vh] transition-all duration-1000 ease-in-out w-[100%] items-center py-[25px] text-[20px] font-semibold gap-[18px] flex flex-col '>
-            <a href="/about"><p className='text-black MT-[30px]'>ABOUT US</p></a>
-            <a href="/courses"><p className='text-black'>OUR TEAM</p></a>
-            <a href="/services"><p className='text-black'>OUR APPROACH</p></a>
-            <a href="/career"><p className='text-black'>OUR SERVICE</p></a>
-            <a href="/career"><p className='text-black'>OUR BRAND</p></a>
-            <a href="/career"><p className='text-black'>CASE STUDY</p></a>
+            <a href="#about"><p className='text-black MT-[30px]'>ABOUT US</p></a>
+            <a href="#team"><p className='text-black'>OUR TEAM</p></a>
+            <a href="#approach"><p className='text-black'>OUR APPROACH</p></a>
+            <a href="#service"><p className='text-black'>OUR SERVICE</p></a>
+            <a href="#brand"><p className='text-black'>OUR BRAND</p></a>
+            <a href="#case-study"><p className='text-black'>CASE STUDY</p></a>
 
-            <a href='/contact'>
+            <a href='#contact'>
                 <button className='flex py-[10px] md:text-[12px] rounded-xl md:font-bold md:hover:bg-[#dd9015] md:transition-all md:ease-in-out md:flex duration-1000 text-white px-[20px] bg-[#FB9B02]'>Contact Us</button>
 
             </a>

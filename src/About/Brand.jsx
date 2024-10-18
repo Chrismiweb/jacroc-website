@@ -64,7 +64,7 @@ LEADING SOUTH AFRICAN AND INTERNATIONAL BRANDS INCLUDING TRANSNET, SAB,GAUTENG P
         </div>
       </Carousel>
       <div className="w-[100%] flex justify-end items-end">
-        <button className="bg-[#F6A21C] gap-[15px] rounded-full hover:bg-yellow-700 hover:duration-500 hover:transition-all justify-center items-center flex font-bold text-white w-[70%] md:w-[40%] lg:w-[20%] py-[10px]">WORK WITH US</button>
+        <a href ="#contact" className="bg-[#F6A21C] gap-[15px] rounded-full hover:bg-yellow-700 hover:duration-500 hover:transition-all justify-center items-center flex font-bold text-white w-[70%] md:w-[40%] lg:w-[20%] py-[10px]">WORK WITH US</a>
       </div>
     </div>
   );

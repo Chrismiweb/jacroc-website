@@ -29,7 +29,7 @@ function Footer() {
         </div>
         <div className='w-[100%] justify-center items-center flex flex-col gap-[20px]'>
             <div className='w-[100%] h-[1px] border-black border'></div>
-                <p className='w-[100%] md:w-[50%] text-white text-center'>Copyright © {date} JacRoc Creative All rights reserved
+                <p className='w-[100%] px-[20px] md:w-[50%] text-white text-center'>Copyright © {date} JacRoc Creative All rights reserved
                 Site Operator: JacRoc</p>
                 
         </div>

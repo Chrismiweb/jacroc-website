@@ -34,7 +34,7 @@ function PowerBrand() {
     ]
   return (
     <div className='w-[100%] py-[50px] lg:py-0 bg-orange-50 flex flex-col lg:flex-row justify-center items-center lg:justify-between lg:items-start pr-[20px]'>
-      <div className='w-[90%] lg:w-[45%] flex  lg:flex h-[1100px] bg-red-200'>
+      <div className='w-[90%] lg:w-[45%] flex  lg:flex h-[1100px]'>
         <img src={collage} className='w-full h-full object-fit' alt="" />
       </div>
       <div className='w-[90%] flex flex-col gap-[30px] lg:justify-start lg:items-start justify-center items-center lg:w-[53%] pt-[30px]'>
